@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [TheCitizen](https://play.google.com/store/apps/details?id=com.ctrendssoftware.thecitizen)
 
-- 🌱 I’m currently learning **NestJS, Next.js**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/](https://linktr.ee/)
 
 - 📫 How to reach me **shahoriar632@gmail.com**
 
-- 📄 Please have a look at my [Resume](https://linktr.ee/) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/16p_xiMlsF5QceJKCaS7gYCrN3zqaYViN/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
 
 - ⚡ Fun fact **I'm !!**
 
