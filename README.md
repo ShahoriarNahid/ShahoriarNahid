@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shahoriar632@gmail.com**
 
-- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/16p_xiMlsF5QceJKCaS7gYCrN3zqaYViN/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/144Mm38xAPWqIG77k2cBGzFWWyKNluTU6/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
 
 - ⚡ Fun fact **I'm !!**
 
