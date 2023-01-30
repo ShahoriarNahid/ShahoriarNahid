@@ -16,7 +16,7 @@
 
 - 📄 Please have a look at my [Resume](https://drive.google.com/file/d/144Mm38xAPWqIG77k2cBGzFWWyKNluTU6/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
 
-- ⚡ Fun fact **I'm !!**
+- ⚡ Love to **Travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
