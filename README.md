@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on [TheCitizen](https://play.google.com/store/apps/details?id=com.ctrendssoftware.thecitizen)
 
-- 🌱 I’m currently learning **Flutter webRtc**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/](https://linktr.ee/)
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **shahoriar632@gmail.com**
 
