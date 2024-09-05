@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shahoriar632@gmail.com**
 
-- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/1j_gNyXRUht2c0jUOWBarFwa9aJlFjThB/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/1mbZMXvURUtGEuhGqGuSCMp2graObgdIa/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
 - ⚡ Love to **Travel**
 
