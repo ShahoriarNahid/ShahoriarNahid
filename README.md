@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahoriarNahid&label=Profile%20views&color=0e75b6&style=flat" alt="ShahoriarNahid" /> </p>
 
 
-- 🔭 I’m currently working on [COMPASS]((https://play.google.com/store/apps/details?id=com.compass.hcbl)
+- 🔭 I’m currently working on [COMPASS](https://play.google.com/store/apps/details?id=com.compass.hcbl)
 
 - 🌱 I’m currently learning **Flutter**
 
