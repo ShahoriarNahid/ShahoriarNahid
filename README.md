@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Md. Shahoriar Nahid</h1>
-<h3 align="center">Mobile App developer from Bangladesh</h3>
+<h3 align="center">Mobile Application Developer from Bangladesh</h3>
 
 <img align="right" alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahoriarNahid&label=Profile%20views&color=0e75b6&style=flat" alt="ShahoriarNahid" /> </p>
 
 
-- 🔭 I’m currently working on [TheCitizen](https://play.google.com/store/apps/details?id=com.ctrendssoftware.thecitizen)
+- 🔭 I’m currently working on [COMPASS]((https://play.google.com/store/apps/details?id=com.compass.hcbl)
 
 - 🌱 I’m currently learning **Flutter**
 
