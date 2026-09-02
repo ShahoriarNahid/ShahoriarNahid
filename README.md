@@ -65,6 +65,65 @@ const Developer md_shahoriar_nahid = Developer(
 
 <br/>
 
+## Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/8cgB6OQ9aYzZUEOI8ZP-b6mEF2DN5wSspvKHc_DgXrs-rhuK-NfAOiSUFUUHcQd0Gkv2okz0_0CikZmBPFR71w=w120-h120" width="88" height="88" alt="LH OneApp logo"/>
+
+### LH OneApp
+Cross-platform commercial super app for **LafargeHolcim Bangladesh**, unifying order and delivery management for employees and customers.
+
+<a href="https://play.google.com/store/apps/details?id=com.oneapp.lhblonline&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+</a>
+<a href="https://apps.apple.com/us/app/lh-oneapp/id6745486965">
+  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
+</a>
+</td>
+<td align="center" width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/HG6krW9K7ysSsTFq4XGKn2MMT6Obhg69QbvEh57bH2LQRqcvdoh9JT4aDG_GNwdQANftInE5U33yRknk02VI=w120-h120" width="88" height="88" alt="Berger Color Service logo"/>
+
+### Berger Color Service
+Unified commercial platform for **Berger Paints Bangladesh** enabling service requests, scheduling, and service history tracking.
+
+<a href="https://play.google.com/store/apps/details?id=com.berger.colour_bank_berger&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+</a>
+<a href="https://apps.apple.com/us/app/berger-color-service/id6757471263">
+  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/MM3dnKmXb4qlpXe1p831OiLNNqFlweldTINY1k8Sd-bI14HBfB3_VtysVaa5wp3cnUD2b-b4-pRaQ7n8dcWoMQ=w120-h120" width="88" height="88" alt="buildBest logo"/>
+
+### buildBest
+Business process management app streamlining operations for **N. Mohammad Group**.
+
+<a href="https://play.google.com/store/apps/details?id=com.nmg.buildbest&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+</a>
+</td>
+<td align="center" width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/0D1j5H5zHFkUjbGxwVa4qmH9lmpYdNldTOkM6vU6I7QnZRmjqyJR5tXaeN_vDgGCU1FtlXA3b9NIc8TwXv5-uQ=w120-h120" width="88" height="88" alt="COMPASS logo"/>
+
+### COMPASS
+Enterprise mobile solution built for **HeidelbergCement Bangladesh Limited**, supporting large-scale operational workflows.
+
+<a href="https://play.google.com/store/apps/details?id=com.compass.hcbl&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
 ## Currently Working On
 
 <!-- REPLACE project links below with your actual repository or product URLs -->
@@ -125,64 +184,7 @@ const Developer md_shahoriar_nahid = Developer(
 
 <br/>
 
-## Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%" valign="top">
-<img src="https://play-lh.googleusercontent.com/8cgB6OQ9aYzZUEOI8ZP-b6mEF2DN5wSspvKHc_DgXrs-rhuK-NfAOiSUFUUHcQd0Gkv2okz0_0CikZmBPFR71w=w120-h120" width="88" height="88" alt="LH OneApp logo"/>
-
-### LH OneApp
-Cross-platform commercial super app for **LafargeHolcim Bangladesh**, unifying order and delivery management for employees and customers.
-
-<a href="https://play.google.com/store/apps/details?id=com.oneapp.lhblonline&hl=en">
-  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
-</a>
-<a href="https://apps.apple.com/us/app/lh-oneapp/id6745486965">
-  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
-</a>
-</td>
-<td align="center" width="50%" valign="top">
-<img src="https://play-lh.googleusercontent.com/HG6krW9K7ysSsTFq4XGKn2MMT6Obhg69QbvEh57bH2LQRqcvdoh9JT4aDG_GNwdQANftInE5U33yRknk02VI=w120-h120" width="88" height="88" alt="Berger Color Service logo"/>
-
-### Berger Color Service
-Unified commercial platform for **Berger Paints Bangladesh** enabling service requests, scheduling, and service history tracking.
-
-<a href="https://play.google.com/store/apps/details?id=com.berger.colour_bank_berger&hl=en">
-  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
-</a>
-<a href="https://apps.apple.com/us/app/berger-color-service/id6757471263">
-  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-<img src="https://play-lh.googleusercontent.com/MM3dnKmXb4qlpXe1p831OiLNNqFlweldTINY1k8Sd-bI14HBfB3_VtysVaa5wp3cnUD2b-b4-pRaQ7n8dcWoMQ=w120-h120" width="88" height="88" alt="buildBest logo"/>
-
-### buildBest
-Business process management app streamlining operations for **N. Mohammad Group**.
-
-<a href="https://play.google.com/store/apps/details?id=com.nmg.buildbest&hl=en">
-  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
-</a>
-</td>
-<td align="center" width="50%" valign="top">
-<img src="https://play-lh.googleusercontent.com/0D1j5H5zHFkUjbGxwVa4qmH9lmpYdNldTOkM6vU6I7QnZRmjqyJR5tXaeN_vDgGCU1FtlXA3b9NIc8TwXv5-uQ=w120-h120" width="88" height="88" alt="COMPASS logo"/>
-
-### COMPASS
-Enterprise mobile solution built for **HeidelbergCement Bangladesh Limited**, supporting large-scale operational workflows.
-
-<a href="https://play.google.com/store/apps/details?id=com.compass.hcbl&hl=en">
-  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
-</a>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
 
 ## Connect With Me
 
