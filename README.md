@@ -175,7 +175,7 @@ Business process management app streamlining operations for **N. Mohammad Group*
 <img src="https://play-lh.googleusercontent.com/0D1j5H5zHFkUjbGxwVa4qmH9lmpYdNldTOkM6vU6I7QnZRmjqyJR5tXaeN_vDgGCU1FtlXA3b9NIc8TwXv5-uQ=w120-h120" width="88" height="88" alt="COMPASS logo"/>
 
 ### COMPASS
-Enterprise mobile solution built for **large-scale operational workflows**.
+Enterprise mobile solution built for **HeidelbergCement Bangladesh Limited**, supporting large-scale operational workflows.
 
 <a href="https://play.google.com/store/apps/details?id=com.compass.hcbl&hl=en">
   <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
