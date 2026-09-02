@@ -121,8 +121,6 @@ const Developer md_shahoriar_nahid = Developer(
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahoriarNahid&hide_border=true" alt="GitHub Streak"/>
 
-<img height="165" src="https://github-readme-stats-two-lyart.vercel.app/api/top-langs/?username=ShahoriarNahid&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-
 </div>
 
 <br/>
