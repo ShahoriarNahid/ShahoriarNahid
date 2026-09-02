@@ -3,7 +3,7 @@
   GITHUB PROFILE README — Md. Shahoriar Nahid
   ============================================================
   BEFORE PUBLISHING, REPLACE THE FOLLOWING PLACEHOLDERS:
-  1. YOUR_GITHUB_USERNAME   -> your GitHub username (used in stats/streak links)
+  1. ShahoriarNahid   -> your GitHub username (used in stats/streak links)
   2. YOUR_LINKEDIN_URL      -> full LinkedIn profile URL
   3. YOUR_EMAIL_ADDRESS     -> your email address
   4. YOUR_PORTFOLIO_URL     -> your portfolio/website URL
@@ -30,7 +30,7 @@
 </p>
 
 <!-- PROFILE VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ShahoriarNahid&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -38,7 +38,7 @@
 
 ## About Me
 
-I'm a **Mobile Application Developer** with **4+ years of experience** designing and building cross-platform applications using **Flutter and Dart**. I specialize in translating product requirements into scalable, maintainable, and performant mobile solutions for Android and iOS.
+I'm a **Mobile Application Developer** with **5+ years of experience** designing and building cross-platform applications using **Flutter and Dart**. I specialize in translating product requirements into scalable, maintainable, and performant mobile solutions for Android and iOS.
 
 My work spans clean architecture, robust state management, seamless API integrations, and production-grade Firebase implementations — with a strong focus on delivering reliable applications for enterprise and consumer use cases.
 
@@ -69,8 +69,10 @@ const Developer md_shahoriar_nahid = Developer(
 
 <!-- REPLACE project links below with your actual repository or product URLs -->
 
-- **COMPASS** — Enterprise mobile solution ([link](COMPASS_PROJECT_URL))
-- **LH OneApp** — Cross-platform Flutter application ([link](LH_ONEAPP_PROJECT_URL))
+- **LH OneApp** — Cross-platform Flutter application ([Google Play](https://play.google.com/store/apps/details?id=com.oneapp.lhblonline&hl=en) · [App Store](https://apps.apple.com/us/app/lh-oneapp/id6745486965))
+- **COMPASS** — Enterprise mobile solution ([Google Play](https://play.google.com/store/apps/details?id=com.compass.hcbl&hl=en))
+- **buildBest** — Business process management app for N. Mohammad Group ([Google Play](https://play.google.com/store/apps/details?id=com.nmg.buildbest&hl=en))
+
 
 <br/>
 
@@ -114,13 +116,13 @@ const Developer md_shahoriar_nahid = Developer(
 
 ## GitHub Statistics
 
-<!-- REPLACE YOUR_GITHUB_USERNAME below with your GitHub username -->
+<!-- REPLACE ShahoriarNahid below with your GitHub username -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShahoriarNahid&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahoriarNahid&hide_border=true" alt="GitHub Streak"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahoriarNahid&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
 </div>
 
@@ -128,14 +130,60 @@ const Developer md_shahoriar_nahid = Developer(
 
 ## Featured Projects
 
-<!-- REPLACE project URLs and descriptions with your actual project details -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/8cgB6OQ9aYzZUEOI8ZP-b6mEF2DN5wSspvKHc_DgXrs-rhuK-NfAOiSUFUUHcQd0Gkv2okz0_0CikZmBPFR71w=w120-h120" width="88" height="88" alt="LH OneApp logo"/>
 
-| Project | Description | Stack |
-|---|---|---|
-| **[COMPASS](COMPASS_PROJECT_URL)** | Enterprise mobile solution built for large-scale operational workflows | Flutter, Dart, REST API |
-| **[LH OneApp](LH_ONEAPP_PROJECT_URL)** | Cross-platform Flutter application with integrated backend services | Flutter, Firebase, SignalR |
-| **[Flutter Applications](FLUTTER_APP_PROJECT_URL)** | Collection of Flutter apps showcasing UI/UX and state management practices | Flutter, Riverpod/GetX/Provider |
-| **[Enterprise Mobile Solutions](ENTERPRISE_PROJECT_URL)** | Scalable enterprise-grade mobile application development | Flutter, Clean Architecture, Firebase |
+### LH OneApp
+Cross-platform commercial super app for **LafargeHolcim Bangladesh**, unifying order and delivery management for employees and customers.
+
+<a href="https://play.google.com/store/apps/details?id=com.oneapp.lhblonline&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+</a>
+<a href="https://apps.apple.com/us/app/lh-oneapp/id6745486965">
+  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
+</a>
+</td>
+<td align="center" width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/HG6krW9K7ysSsTFq4XGKn2MMT6Obhg69QbvEh57bH2LQRqcvdoh9JT4aDG_GNwdQANftInE5U33yRknk02VI=w120-h120" width="88" height="88" alt="Berger Color Service logo"/>
+
+### Berger Color Service
+Unified commercial platform for **Berger Paints Bangladesh** enabling service requests, scheduling, and service history tracking.
+
+<a href="https://play.google.com/store/apps/details?id=com.berger.colour_bank_berger&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+</a>
+<a href="https://apps.apple.com/us/app/berger-color-service/id6757471263">
+  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/MM3dnKmXb4qlpXe1p831OiLNNqFlweldTINY1k8Sd-bI14HBfB3_VtysVaa5wp3cnUD2b-b4-pRaQ7n8dcWoMQ=w120-h120" width="88" height="88" alt="buildBest logo"/>
+
+### buildBest
+Business process management app streamlining operations for **N. Mohammad Group**.
+
+<a href="https://play.google.com/store/apps/details?id=com.nmg.buildbest&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+</a>
+</td>
+<td align="center" width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/0D1j5H5zHFkUjbGxwVa4qmH9lmpYdNldTOkM6vU6I7QnZRmjqyJR5tXaeN_vDgGCU1FtlXA3b9NIc8TwXv5-uQ=w120-h120" width="88" height="88" alt="COMPASS logo"/>
+
+### COMPASS
+Enterprise mobile solution built for **large-scale operational workflows**.
+
+<a href="https://play.google.com/store/apps/details?id=com.compass.hcbl&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
@@ -144,13 +192,13 @@ const Developer md_shahoriar_nahid = Developer(
 <!-- REPLACE the placeholder links below with your actual profile/contact URLs -->
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://bd.linkedin.com/in/shahoriar-nahid">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ShahoriarNahid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:shahoriar.nahid@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
