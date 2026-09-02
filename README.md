@@ -24,7 +24,7 @@
 ### Mobile Application Developer · Flutter & Dart · Bangladesh
 
 <p>
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-2F80ED?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-2F80ED?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/Location-Bangladesh-2F80ED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Flutter%20%26%20Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Focus"/>
 </p>
